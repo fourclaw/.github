@@ -1,4 +1,9 @@
-# Hi 👋, I'm FourClaw
+<div style="text-align: center;">
+  <img src="https://pbs.twimg.com/profile_banners/1972203775567056896/1770286754/1500x500" width="100%"/>
+  <h2>Welcome to FourClaw Labs LLC! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+  <p>Building Multi Chain AI Launchpad Ecosystem</p>
+</div>
+
 
 ### FourClaw Labs LLC
 
