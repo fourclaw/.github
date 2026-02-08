@@ -4,10 +4,6 @@
   <p>Building Multi Chain AI Launchpad Ecosystem</p>
 </div>
 
-
-### FourClaw Labs LLC
-
-
 <p align="left"> <a href="https://twitter.com/FourClawFun" target="blank"><img src="https://img.shields.io/twitter/follow/FourClawFun?logo=twitter&style=for-the-badge" alt="FourClawFun" /></a> </p>
 
 - 🔭 I'm currently working on **Building https://fourclaw.fun
