@@ -7,7 +7,6 @@
 
 ### FourClaw Labs LLC
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fourclaw&label=Profile views&color=0e75b6&style=flat" alt="fourclaw" /> </p>
 
 <p align="left"> <a href="https://twitter.com/FourClawFun" target="blank"><img src="https://img.shields.io/twitter/follow/FourClawFun?logo=twitter&style=for-the-badge" alt="FourClawFun" /></a> </p>
 
